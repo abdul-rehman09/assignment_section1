@@ -7,7 +7,6 @@ public class Main {
 
 
         for (int a=1;a<=7;a+=2){
-
             for (int b=7;b>=a;b--){
                 System.out.print("*");
             }
